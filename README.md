@@ -11,7 +11,7 @@ octodns_lexicon is a provider for OctoDNS which by acting as a wrapper, it lets 
 ## Getting started
 ### Installation
 
-    pip install octodns-lexicon
+    pip install git+https://github.com/cdswambo/octodns-lexicon-namecheap-support
     
 ### Extra dependencies
 
